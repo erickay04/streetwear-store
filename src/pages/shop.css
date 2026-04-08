@@ -1,0 +1,102 @@
+#shop{
+    background-color: #0f0f0f;
+    color: white;
+    margin-top: 60px;
+}
+
+#shop h1{
+    font-size: 30px;
+    margin: 0 30px 20px 30px;
+    padding-top: 20px;
+}
+
+#shop-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#productpage{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1200px;
+    margin: auto;
+    padding: 15px;
+}
+
+.product-det{
+    height: 400px;
+    max-width: 300px;
+    margin: 15px;
+    background-color: #0f0f0f;
+    border-radius: 10px;
+    border-radius: 10px;
+}
+
+.product-det img{
+    width: 270px;
+    height: 200px;
+    margin: 5px 12px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.product-det h3{
+    font-size: 18px;
+    margin: 5px 10px;
+}
+
+.product-det p{
+    font-size: 18px;
+    margin: 0 13px;
+    padding-bottom: 7px;
+}
+
+#btn-{
+    width: 270px;
+    margin: 5px 12px;
+    padding: 7px 15px;
+    border-radius: 8px;
+    border: none;
+    background-color: black;
+    cursor: pointer;
+}
+
+#btn- a{
+    text-decoration: none;
+    color: white;
+}
+
+.product-det button{
+    width: 270px;
+    margin: 5px 12px;
+    padding: 7px 15px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+.product-det button a{
+    text-decoration: none;
+    color: #000;
+}
+
+.details{
+    margin: 5px 12px;
+}
+
+.details h2{
+    font-size: 28px;
+    padding-top: 5px;
+}
+
+.details h4{
+    font-size: 20px;
+    padding-top: 15px;
+}
+
+.details p{
+    font-size: 15px;
+    padding: 8px;
+}

@@ -1,0 +1,179 @@
+#details{
+    background-color: #0f0f0f;
+    margin-top: 60px;
+}
+
+#contentdet{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    padding: 40px 50px;
+    color: white;
+}
+
+.hero-split{
+    width: 500px;
+}
+
+.hero-split img{
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.hero-split h1{
+    margin: 20px 0;
+    font-size: 34px;
+}
+
+.hero-split h3{
+    margin-bottom: 15px;
+    font-size: 28px;
+    color: gold;
+}
+
+.hero-split h5{
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: gold;
+}
+
+.hero-split h6 span{
+    color: white;
+}
+
+.hero-split p{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.stock{
+    font-size: 13px;
+    background-color: #2a2929;
+    width: 80px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    padding: 3px;
+}
+
+.sizes button{
+    text-align: center;
+    padding: 10px;
+    background-color: #0f0f0f;
+    color: white;
+    margin-right: 8px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.quantity{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.quantity button{
+    padding: 5px 12px;
+    background-color: #0f0f0f;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.quantity span{
+    font-size: 16px;
+    color: black;
+    background-color: white;
+    min-width: 40px;
+    text-align: center;
+}
+
+#button button{
+    width: 270px;
+    margin: 5px 0;
+    padding: 7px 15px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+#related h2{
+    margin: 30px 50px 0 50px;
+    font-size: 30px;
+    color: white;
+}
+
+.related-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1500px;
+    margin: auto;
+    padding: 15px;
+}
+
+.related-card{
+    height: 300px;
+    max-width: 300px;
+    margin: 15px;
+    background-color: black;
+    border-radius: 10px;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 0;
+}
+
+.related-card img{
+    width: 270px;
+    height: 200px;
+    margin: 0 12px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.related-card h4{
+    font-size: 18px;
+    margin: 5px 10px;
+}
+
+.related-card p{
+    font-size: 18px;
+    margin: 0 13px;
+    color: gold;
+}
+
+.related-card button{
+    width: 270px;
+    margin: 5px 12px;
+    padding: 7px 15px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+#content-det{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+}
+
+.contss{
+    width: 300px;
+    height: 100px;
+    padding: 30px 15px 0 15px;
+    background-color: #252525;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+}
+
+.contss .icons{
+    font-size: 25px;
+    color: gold;
+}

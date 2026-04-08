@@ -1,0 +1,225 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Street Culture Hoodie",
+      "price": 25000,
+      "category": "hoodies",
+      "image": "/images/hoodie.jpg",
+      "description": "Premium cotton hoodie with bold street culture print."
+    },
+    {
+      "id": "2",
+      "title": "Urban Edge Graphic Tee",
+      "price": 12000,
+      "category": "tshirts",
+      "image": "/images/Shirt1.jpg",
+      "description": "Soft cotton t-shirt with modern graphic design."
+    },
+    {
+      "id": "3",
+      "title": "Shadow Black Sneakers",
+      "price": 45000,
+      "category": "sneakers",
+      "image": "/images/shoes1.jpg",
+      "description": "Comfortable all-black sneakers for everyday wear."
+    },
+    {
+      "id": "4",
+      "title": "Drip Logo Cap",
+      "price": 8000,
+      "category": "caps",
+      "image": "/images/cap1.jpg",
+      "imagegallery": [
+        "/images/miniC1.jpg",
+        "/images/miniC2.jpg",
+        "/images/miniC3.jpg"
+      ],
+      "description": "Adjustable cap with embroidered DRIP logo."
+    },
+    {
+      "id": "5",
+      "title": "Oversized Hoodie",
+      "price": 28000,
+      "category": "hoodies",
+      "image": "/images/hoodie2.jpg",
+      "description": "Relaxed fit oversized hoodie for street style lovers."
+    },
+    {
+      "id": "6",
+      "title": "Minimalist White Tee",
+      "price": 10000,
+      "category": "tshirts",
+      "image": "/images/shirt2.jpg",
+      "description": "Clean white t-shirt with minimalist design."
+    },
+    {
+      "id": "7",
+      "title": "Urban Cargo Pants",
+      "price": 30000,
+      "category": "pants",
+      "image": "/images/pants.jpg",
+      "description": "Durable cargo pants with multiple pockets."
+    },
+    {
+      "id": "8",
+      "title": "Street Flex Sneakers",
+      "price": 50000,
+      "category": "sneakers",
+      "image": "/images/shoes2.jpg",
+      "description": "High-performance sneakers with stylish finish."
+    },
+    {
+      "id": "9",
+      "title": "Snapback Cap",
+      "price": 9000,
+      "category": "caps",
+      "image": "/images/cap2.jpg",
+      "description": "Classic snapback with adjustable strap."
+    },
+    {
+      "id": "10",
+      "title": "Vintage Wash Tee",
+      "price": 15000,
+      "category": "tshirts",
+      "image": "images/shirt3.jpg",
+      "description": "Vintage washed t-shirt for retro vibes."
+    },
+    {
+      "id": "11",
+      "title": "Heavyweight Hoodie",
+      "price": 32000,
+      "category": "hoodies",
+      "image": "/images/hoodie3.jpg",
+      "description": "Thick and warm hoodie for cold weather."
+    },
+    {
+      "id": "12",
+      "title": "Slim Fit Joggers",
+      "price": 20000,
+      "category": "pants",
+      "image": "/images/pants2.jpg",
+      "description": "Comfortable slim-fit joggers for daily wear."
+    },
+    {
+      "id": "13",
+      "title": "Chunky Sneakers",
+      "price": 55000,
+      "category": "sneakers",
+      "image": "/images/shoes3.jpg",
+      "description": "Bold chunky sneakers for standout style."
+    },
+    {
+      "id": "14",
+      "title": "Classic Black Cap",
+      "price": 7000,
+      "category": "caps",
+      "image": "/images/cap3.jpg",
+      "description": "Simple black cap for everyday use."
+    },
+    {
+      "id": "15",
+      "title": "Printed Graphic Hoodie",
+      "price": 27000,
+      "category": "hoodies",
+      "image": "/images/hoodie4.jpg",
+      "description": "Hoodie with eye-catching front and back prints."
+    },
+    {
+      "id": "16",
+      "title": "Street Vibe Tee",
+      "price": 13000,
+      "category": "tshirts",
+      "image": "/images/shirt3.jpg",
+      "description": "Modern streetwear t-shirt with unique vibe."
+    },
+    {
+      "id": "17",
+      "title": "Denim Cargo Pants",
+      "price": 35000,
+      "category": "pants",
+      "image": "/images/pants3.jpg",
+      "description": "Stylish denim cargo pants with street edge."
+    },
+    {
+      "id": "18",
+      "title": "High Top Sneakers",
+      "price": 48000,
+      "category": "sneakers",
+      "image": "/images/shoes4.jpg",
+      "description": "High-top sneakers for a bold urban look."
+    },
+    {
+      "id": "19",
+      "title": "Logo Embroidered Cap",
+      "price": 8500,
+      "category": "caps",
+      "image": "/images/cap4.jpg",
+      "description": "Premium cap with detailed embroidery."
+    },
+    {
+      "id": "20",
+      "title": "Essential Hoodie",
+      "price": 26000,
+      "category": "hoodies",
+      "image": "/images/hoodie5.jpg",
+      "description": "Everyday hoodie with clean design."
+    },
+    {
+      "id": "21",
+      "title": "Oversized Graphic Tee",
+      "price": 14000,
+      "category": "tshirts",
+      "image": "/images/shirt4.jpg",
+      "description": "Loose fit tee with bold graphic print."
+    },
+    {
+      "id": "22",
+      "title": "Techwear Pants",
+      "price": 40000,
+      "category": "pants",
+      "image": "/images/pants4.jpg",
+      "description": "Modern techwear pants with functional design."
+    },
+    {
+      "id": "23",
+      "title": "Runner Sneakers",
+      "price": 42000,
+      "category": "sneakers",
+      "image": "/images/shoes5.jpg",
+      "description": "Lightweight sneakers built for comfort."
+    },
+    {
+      "id": "24",
+      "title": "Trucker Cap",
+      "price": 7500,
+      "category": "caps",
+      "image": "/images/cap5.jpg",
+      "description": "Breathable trucker cap for casual wear."
+    },
+    {
+      "id": "25",
+      "title": "Premium Zip Hoodie",
+      "price": 30000,
+      "category": "hoodies",
+      "image": "/images/hoodie6.jpg",
+      "description": "Zip-up hoodie with premium finish."
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "eric",
+      "email": "kotunbabajide@gmail.com",
+      "phone": "09137122758",
+      "password": "Tobi2004"
+    },
+    {
+      "id": "2",
+      "username": "toby",
+      "email": "tobilobaky04@gmail.com",
+      "phone": "08103963197",
+      "password": "eric0055"
+    }
+  ]
+}

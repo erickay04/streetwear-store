@@ -1,0 +1,119 @@
+*{
+  margin: 0;
+  padding: 0;
+  /* background-color: #1c1c1c;
+  color: white; */
+}
+
+header{
+  background-color: black;
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+header h1{
+    font-size: 30px;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 0 10px;
+}
+
+#card-btn button{
+   background-color: black;
+   color: black;
+}
+
+.icon{
+  font-size: 28px;
+  color: white;
+  background-color: black;
+  margin-right: 20px;
+}
+
+#card-btn{
+  padding-right: 10px;
+}
+
+
+
+footer{
+  color: white;
+  background-color: black;
+}
+
+
+
+#footer{
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 30px;
+  padding: 30px 20px;
+}
+
+.foot-details h1{
+  padding-bottom: 20px;
+  font-size: 24px;
+}
+
+.foot-details h2{
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+
+.foot-details ul{
+  list-style: none;
+  font-size: 15px;
+}
+
+.foot-details ul li{
+  padding: 4px 0;
+}
+
+.foot-details ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+.foot-details ul li a:hover{
+  color: #61e2f6;
+}
+
+.foot-details p{
+    text-align: start;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.icon{
+    font-size: 16px;
+    padding: 0 4px;
+}
+
+.footer-bot{
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  margin: 0;
+}
